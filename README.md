@@ -408,17 +408,17 @@ A curated collection of full-stack AI platforms, emergency response networks, an
   <!-- STATS & STREAK -->
   <p align="center">
     <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-stats.vercel.app/api?username=snehasishlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&count_private=true" alt="Snehasish's GitHub Stats" width="48%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=snehasishlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&count_private=true" alt="Snehasish's GitHub Stats" width="48%" />
     </a>
     <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehasishlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="Snehasish's Streak Stats" width="48%" />
+      <img src="https://streak-stats.demolab.com/?user=snehasishlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="Snehasish's Streak Stats" width="48%" />
     </a>
   </p>
 
   <!-- TOP LANGUAGES -->
   <p align="center">
     <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasishlabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=snehasishlabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
     </a>
   </p>
 
@@ -428,15 +428,16 @@ A curated collection of full-stack AI platforms, emergency response networks, an
     <br/>
     <p align="center">
       <a href="https://github.com/snehasishlabs">
-        <img src="https://github-profile-trophy.vercel.app/?username=snehasishlabs&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+        <img src="https://github-trophies.vercel.app/?username=snehasishlabs&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
       </a>
     </p>
   </details>
 
   <!-- ACTIVITY GRAPH -->
+  <h4>📈 Contribution Activity Matrix</h4>
   <p align="center">
     <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishlabs&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=38BDF8&line=0284C7&point=F43F5E" alt="Snehasish's Activity Graph" width="100%" />
+      <img src="https://ghchart.rshah.org/38BDF8/snehasishlabs" alt="Snehasish's Contribution Activity Chart" width="100%" />
     </a>
   </p>
 
