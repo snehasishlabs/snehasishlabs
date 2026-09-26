@@ -448,13 +448,13 @@ A curated collection of full-stack AI platforms, emergency response networks, an
     <br/>
     <p align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake.svg">
-        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null; this.src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehasishlabs&theme=tokyonight';" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-snake.svg">
+        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-snake-dark.svg" onerror="this.onerror=null; this.src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehasishlabs&theme=tokyonight';" />
       </picture>
     </p>
     <p align="center">
-      <i>⚡ Automated daily GitHub Action. To generate the snake on your repository, add <code>.github/workflows/snake.yml</code>.</i>
+      <i>⚡ Automated daily GitHub Action via <code>.github/workflows/snake.yml</code>.</i>
     </p>
   </details>
 
