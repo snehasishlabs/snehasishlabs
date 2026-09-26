@@ -433,23 +433,30 @@ A curated collection of full-stack AI platforms, emergency response networks, an
     </p>
   </details>
 
-  <!-- ACTIVITY GRAPH -->
-  <h4>📈 Contribution Activity Matrix</h4>
+  <!-- ACTIVITY GRAPH & PROFILE DETAILS (TOKYONIGHT DARK THEME) -->
+  <h4>📈 Contribution Activity Matrix & Telemetry</h4>
   <p align="center">
     <a href="https://github.com/snehasishlabs">
-      <img src="https://ghchart.rshah.org/38BDF8/snehasishlabs" alt="Snehasish's Contribution Activity Chart" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehasishlabs&theme=tokyonight" alt="Snehasish's Profile Details and Activity" width="100%" />
     </a>
   </p>
 
-  <!-- SNAKE ANIMATION -->
+  <!-- SNAKE ANIMATION & WORKFLOW SETUP -->
   <h4>🐍 Contribution Graph Eater</h4>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake.svg">
-    </picture>
-  </p>
+  <details>
+    <summary><b>▶️ Click to View Contribution Snake Activity & Setup</b></summary>
+    <br/>
+    <p align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake.svg">
+        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/snehasishlabs/snehasishlabs/output/github-contribution-grid-snake-dark.svg" onerror="this.onerror=null; this.src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehasishlabs&theme=tokyonight';" />
+      </picture>
+    </p>
+    <p align="center">
+      <i>⚡ Automated daily GitHub Action. To generate the snake on your repository, add <code>.github/workflows/snake.yml</code>.</i>
+    </p>
+  </details>
 
 </div>
 
