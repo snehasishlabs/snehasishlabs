@@ -390,28 +390,6 @@ A curated collection of full-stack AI platforms, emergency response networks, an
 - 👥 **Peer Mentorship & Community:** Guiding fellow student developers on Git fundamentals, modern JavaScript, and building their first LLM-powered applications.
 
 ---
-
-### 📊 GitHub Analytics & Developer Metrics
-
-<div align="center">
-
-  <!-- STATS & STREAK -->
-  <p align="center">
-    <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=snehasishlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&count_private=true" alt="Snehasish's GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/snehasishlabs">
-      <img src="https://streak-stats.demolab.com/?user=snehasishlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="Snehasish's Streak Stats" width="48%" />
-    </a>
-  </p>
-
-  <!-- TOP LANGUAGES -->
-  <p align="center">
-    <a href="https://github.com/snehasishlabs">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=snehasishlabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
-    </a>
-  </p>
-
   <!-- TROPHIES -->
   <details>
     <summary><b>🏆 Click to Expand GitHub Trophies</b></summary>
