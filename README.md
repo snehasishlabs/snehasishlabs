@@ -441,7 +441,7 @@ A curated collection of full-stack AI platforms, emergency response networks, an
 
 <p align="center">
   <a href="https://github.com/snehasishlabs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasishlabs&theme=github-compact" alt="Snehasish's GitHub Activity Graph" width="100%" />
+    <img src="https://github-activity-graph.vercel.app/graph?username=snehasishlabs&theme=github-compact" alt="Snehasish's GitHub Activity Graph" width="100%" />
   </a>
 </p>
 
