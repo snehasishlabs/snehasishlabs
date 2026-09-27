@@ -426,15 +426,6 @@ A curated collection of full-stack AI platforms, emergency response networks, an
 </div>
 
 ---
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/snehasishlabs">
-    <img src="https://github-activity-graph.vercel.app/graph?username=snehasishlabs&theme=github-compact" alt="Snehasish's GitHub Activity Graph" width="100%" />
-  </a>
-</p>
-
 ---
 
 ### 🧩 Fun Facts & Beyond The Terminal
