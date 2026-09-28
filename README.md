@@ -11,7 +11,7 @@
   </a>
 
   <p align="center">
-    <strong>📍 Kolkata, India</strong> • 
+    <strong>📍 Kolkata, India</strong>
   </p>
 
   <!-- SOCIAL BADGES -->
@@ -380,10 +380,8 @@ A curated collection of full-stack AI platforms, emergency response networks, an
 ---
 ---
 
-### 🌟 Academic & Technical Achievements
+### Technical Achievements
 
-- 🎓 **Consistent Academic Excellence:** Maintaining an outstanding **9.04 CGPA** in Bachelor of Computer Applications at Techno India University.
-- 💡 **7+ Production-Grade Projects:** Engineered and deployed end-to-end full-stack and AI applications targeting real-world verticals.
 - 🤖 **Deep Gemini Ecosystem Practitioner:** Active builder leveraging Google AI Studio and Gemini 1.5/2.0 API capabilities for advanced reasoning and multimodal tasks.
 - 👥 **Peer Mentorship & Community:** Guiding fellow student developers on Git fundamentals, modern JavaScript, and building their first LLM-powered applications.
 
