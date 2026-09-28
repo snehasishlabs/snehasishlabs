@@ -12,8 +12,6 @@
 
   <p align="center">
     <strong>📍 Kolkata, India</strong> • 
-    <strong>🎓 BCA @ Techno India University (CGPA: 9.04)</strong> • 
-    <strong>🚀 Class of 2028</strong>
   </p>
 
   <!-- SOCIAL BADGES -->
