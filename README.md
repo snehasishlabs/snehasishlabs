@@ -41,7 +41,6 @@
 
 ```text
 ┌──(snehasish㉿kolkata-node)-[~/snehasishlabs]
-└─$ ./render-avatar --source 1781211380686.png --compact
 
 ---------------------------------------:::::::::::
 ---------------------=+####***---:::::::::::::::::
@@ -71,7 +70,7 @@
 ```
 
     </td>
-    <td width="45%" valign="top">
+
 
 ### 👨‍💻 Snehasish Saha
 `@snehasishlabs`
@@ -79,14 +78,6 @@
 > **AI/ML Builder | Software Developer | Hackathon Enthusiast**
 
 ---
-
-#### ⚡ Quick Telemetry
-- 📍 **Location:** Kolkata, West Bengal, India 🇮🇳
-- 🎓 **Education:** BCA, Techno India University
-- 📅 **Graduation:** Expected 2028
-- 🌟 **Current CGPA:** **9.04 / 10.0**
-- 💼 **Role:** AI/ML Builder & Full-Stack SDE
-
 ---
 
 #### 🧠 Core AI & Dev Arsenal
